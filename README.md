@@ -95,6 +95,8 @@ cv2.destroyAllWindows()
 
 ### Histogram Equalization of Grayscale Image
 ![](./3.png)
+
+
 ![](./4.png)
 
 ## Result: 
